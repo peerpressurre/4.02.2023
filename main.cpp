@@ -18,7 +18,7 @@ int main()
 		}
 		cout << endl;
 	}
-	cout << "----------------------------" << endl;
+	cout << "----------------" << endl;
 	int row_sum = 0, sum = 0;
 	for (size_t i = 0; i < x; ++i)
 	{
