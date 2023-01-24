@@ -35,7 +35,7 @@ int main()
 		row_sum = 0;
 	}
 
-	cout << "---------------" << endl;
+	cout << "----------------" << endl;
 	
 	int i, j, col_sum = 0;
 	for (size_t i = 0; i < x; ++i)
@@ -48,7 +48,7 @@ int main()
 		cout <<  col_sum << " ";
 		col_sum = 0;
 	}
-	cout << "| ";
+	cout << " |" << sum;
 
 
 
