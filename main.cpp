@@ -49,10 +49,5 @@ int main()
 		col_sum = 0;
 	}
 	cout << " |" << sum;
-
-
-
-
-
 	return 0;
 }
