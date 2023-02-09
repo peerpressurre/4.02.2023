@@ -17,7 +17,7 @@ int main()
 	{
 		for (size_t j = 0; j < y; j++)
 		{
-			arr[i][j] = rand() % 10;
+			arr[i][j] = rand() % 50;
 			cout << arr[i][j] << ' ';
 		}
 		cout << endl;
@@ -34,7 +34,6 @@ int main()
 		cout << endl;
 	}
 	
-
 	return 0;
 }
 
